@@ -1,0 +1,17 @@
+Git的安装
+1：download
+2：git bash：设置global的name 和email
+3：建立本地版本库：建立目录；git init初始化即可
+4：插入文件（demo）
+
+
+
+
+
+
+
+
+
+
+
+
